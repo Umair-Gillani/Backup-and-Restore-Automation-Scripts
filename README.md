@@ -38,7 +38,7 @@ Before using these scripts, ensure you have the following:
 1. **Clone the Repository**
 
    ```bash
-   https://github.com/Umair-Gillani/Backup-and-Restore-Automation-Scripts.git
+   git clone https://github.com/Umair-Gillani/Backup-and-Restore-Automation-Scripts.git
    cd Backup-and-Restore-Automation-Scripts
    ```
 
